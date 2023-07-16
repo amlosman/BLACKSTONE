@@ -1,0 +1,7 @@
+{
+  "emailField": "mat-input-0",
+  "passwordField": "mat-input-1",
+  "LoginBtn": "//*[@class='block primary']",
+  "userIcon": "//img[@src='assets/images/user.svg']",
+  "logoutBtn": "//li[.='Logout']"
+}
