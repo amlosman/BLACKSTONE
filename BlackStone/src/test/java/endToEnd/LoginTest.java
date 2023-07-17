@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import pages.HomePage;
 import pages.LoginPage;
 
-public class HomePageTest extends Base {
+public class LoginTest extends Base {
     ReadDataFromJSonFile readDataFromJSonFile = new ReadDataFromJSonFile("src/test/resources/data/UserData.json");
     HomePage homePage;
     LoginPage loginPage;
